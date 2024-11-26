@@ -1,0 +1,23 @@
+.ochiq {
+    display: block;
+}
+
+.closed {
+    display: none;
+}
+
+.off {
+    background-color: wHite  !important;
+    color: black  !important;
+}
+
+.on {
+    background-color: black  !important;
+    color: white  !important;
+}
+.home{
+    height: 100vh;
+}
+.on h2{
+    color: white  !important;
+}
